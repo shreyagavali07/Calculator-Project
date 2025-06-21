@@ -1,0 +1,1 @@
+A simple, responsive calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. Built using HTML for structure, CSS for styling, and JavaScript for functionality. Ideal for beginners to learn DOM manipulation and event handling.
